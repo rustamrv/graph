@@ -26,3 +26,5 @@ if __name__ == "__main__":
     g.print_adj_matrix()
     g.incidence_matrix_init()
     g.print_inc_matrix()
+    g.bfs(b)
+    g.dijkstra(a, d)
